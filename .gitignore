@@ -1,0 +1,4 @@
+build/
+simulator
+simulator.exe
+*.exe
